@@ -44,6 +44,7 @@ syntax on					" enable syntax highlighting
 "   "	zellner.vim
 "   "colorscheme delek				" set color scheme, must be installed first
 "   colorscheme dracula				" Downloaded via Pathogen
+colorscheme solarized				" Downloaded via Pathogen
 "   set background=dark				" dark background for console
 "
 "   set encoding=utf-8				" encoding used for displaying file
