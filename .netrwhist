@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home2/rackad/Documents/MY_STUFF'
+let g:netrw_dirhist_2='/etc/apt'
+let g:netrw_dirhist_3='/home/rackad/SpiderOak Hive/Personal_Stuff/Richard Ackad/Safari Books Online/Training_Courses/Bash_Scripting_Fundamentals'
+let g:netrw_dirhist_4='/home/rackad/.vim/colors'
