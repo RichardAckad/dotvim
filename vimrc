@@ -1,4 +1,8 @@
-"   syntax on					" enable syntax highlighting
+"call pathogen#runtime_append_all_bundles()
+call pathogen#infect()
+call pathogen#helptags()
+
+syntax on					" enable syntax highlighting
 "   set nocompatible				" use Vim mode instead of pure Vi, it must be the first instruction
 "   filetype off					" Helps force plugins to load correctly when it is turned back on below
 "   filetype on					" enable file type detection
@@ -39,6 +43,7 @@
 "   "	torte.vim
 "   "	zellner.vim
 "   "colorscheme delek				" set color scheme, must be installed first
+"colorscheme dracula
 "   set background=dark				" dark background for console
 "
 "   set encoding=utf-8				" encoding used for displaying file
