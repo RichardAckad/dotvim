@@ -10,3 +10,7 @@ Create symlinks:
 	git submodule init
 	git submodule update
 
+Some References:
+http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+http://mirnazim.org/writings/vim-plugins-i-use/
+ 
