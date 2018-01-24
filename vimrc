@@ -2,8 +2,12 @@
 call pathogen#infect()
 call pathogen#helptags()
 
-"colorscheme dracula				" Downloaded via Pathogen
-colorscheme solarized				" Downloaded via Pathogen
 set background=dark				" dark background for console
-"set background=light				" dark background for console
-let g:solarized_termcolors=256
+
+"colorscheme dracula				" Downloaded via Pathogen
+
+"colorscheme solarized				" Downloaded via Pathogen
+"let g:solarized_termtrans=1
+"let g:solarized_termcolors=256
+"let g:solarized_contrast="high"
+"let g:solarized_visibility="high"
