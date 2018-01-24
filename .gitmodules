@@ -4,3 +4,9 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/delmitmate"]
+	path = bundle/delmitmate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = git://github.com/kevinw/pyflakes-vim.git
