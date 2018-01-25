@@ -4,6 +4,8 @@ call pathogen#helptags()
 
 set background=dark				" dark background for console
 
+"set number 
+
 "colorscheme dracula				" Downloaded via Pathogen
 
 "colorscheme solarized				" Downloaded via Pathogen
