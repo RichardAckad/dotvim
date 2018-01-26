@@ -14,6 +14,9 @@ call pathogen#helptags()
 filetype plugin indent on		" enable detection, plugins and indenting in one step
 syntax on
 
+" Change Background
+set background=dark				" change background to dark
+
 " Change shell
 set shell=bash					" make bash the default shell
 
