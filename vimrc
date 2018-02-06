@@ -17,6 +17,10 @@ syntax on
 " Change Background
 set background=dark				" change background to dark
 
+" Add theme
+color dracula
+"	color solarized
+
 " Change shell
 set shell=bash					" make bash the default shell
 
