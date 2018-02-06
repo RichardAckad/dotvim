@@ -128,7 +128,7 @@ set encoding=utf-8
 set lazyredraw					" don't update the display while executing macros
 set laststatus=2				" tell VIM to always put a status line in, even
 								"	 if there is only one window
-set cmdheight=2					" use a status bar that is 2 rows high
+set cmdheight=1					" use a status bar that is 1 rows high (originally was 2 and I changed it to 1)
 " }}}
 
 " Vim behaviour {{{
